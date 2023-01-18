@@ -15,5 +15,6 @@ export default App;
 const styles = {
   container: {
     height: 100,
+    width: "100%",
   },
 };
